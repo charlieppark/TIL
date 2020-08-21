@@ -31,6 +31,6 @@
 
 #### 1. Linear Equations in Linear Algebra
 
-https://velog.io/@charlieppark/1.1-Systems-of-Linear-Equations
+[1.1 Systems of Linear Equations](https://velog.io/@charlieppark/1.1-Systems-of-Linear-Equations)
 
-https://velog.io/@charlieppark/1.2-Row-Reduction-and-Echelon-Forms
+[1.2 Row Reduction and Echelon Forms](https://velog.io/@charlieppark/1.2-Row-Reduction-and-Echelon-Forms)
