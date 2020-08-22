@@ -19,6 +19,13 @@
 
 ## Machine Learning
 
+### <파이썬 머신러닝 완벽 가이드>
+
+#### Chapter 1.
+
+[머신러닝의 개념과 파이썬 기반 ML](https://velog.io/@charlieppark/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-Chap-01.0102)
+
+
 ***
 
 ## Python
@@ -34,3 +41,7 @@
 [1.1 Systems of Linear Equations](https://velog.io/@charlieppark/1.1-Systems-of-Linear-Equations)
 
 [1.2 Row Reduction and Echelon Forms](https://velog.io/@charlieppark/1.2-Row-Reduction-and-Echelon-Forms)
+
+[1.3 Vector Equations](https://velog.io/@charlieppark/1.3-Vector-Equations)
+
+[1.4 The Matrix Equation Ax=b](https://velog.io/@charlieppark/1.4-The-Matrix-Equation-Axb)
