@@ -27,6 +27,8 @@
 
 [Numpy 개요](https://velog.io/@charlieppark/NumPy-%EA%B0%9C%EC%9A%94)
 
+[Numpy - ndarray 다루기](https://velog.io/@charlieppark/ndarray-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+
 ***
 
 ## Math
