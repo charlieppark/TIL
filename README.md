@@ -29,6 +29,8 @@
 
 [Numpy - ndarray 다루기](https://velog.io/@charlieppark/ndarray-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 
+[Numpy 정렬, 행렬 연산](https://velog.io/@charlieppark/Numpy-%EC%A0%95%EB%A0%AC-%ED%96%89%EB%A0%AC-%EC%97%B0%EC%82%B0)
+
 ***
 
 ## Math
