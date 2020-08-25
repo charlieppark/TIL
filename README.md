@@ -17,6 +17,17 @@
 
 ***
 
+## Data Structure and Algorithms
+
+### Algorithms
+
+#### Abdul Bari Lecture
+
+[Introduction to Algorithms](https://velog.io/@charlieppark/Introduction-to-Algorithms)
+  
+
+***
+
 ## Machine Learning
 
 ### <파이썬 머신러닝 완벽 가이드>
