@@ -42,6 +42,8 @@
 
 [Numpy 정렬, 행렬 연산](https://velog.io/@charlieppark/Numpy-%EC%A0%95%EB%A0%AC-%ED%96%89%EB%A0%AC-%EC%97%B0%EC%82%B0)
 
+[Pandas 개요](https://velog.io/@charlieppark/Pandas-Overview)
+
 ***
 
 ## Math
