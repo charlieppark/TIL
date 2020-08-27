@@ -19,6 +19,10 @@
 
 ## Data Structure and Algorithms
 
+### Data Structure
+
+[Array and Linked List](https://velog.io/@charlieppark/Array-and-Linked-List)
+
 ### Algorithms
 
 #### Abdul Bari Lecture
