@@ -23,6 +23,8 @@
 
 [Array and Linked List](https://velog.io/@charlieppark/Array-and-Linked-List)
 
+[Linked List 를 C로 구현할 때](https://velog.io/@charlieppark/Linked-List-%EB%A5%BC-C%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%A0-%EB%95%8C)
+
 ### Algorithms
 
 #### Abdul Bari Lecture
