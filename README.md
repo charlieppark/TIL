@@ -25,6 +25,8 @@
 
 [Linked List 를 C로 구현할 때](https://velog.io/@charlieppark/Linked-List-%EB%A5%BC-C%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%A0-%EB%95%8C)
 
+[자료형과 추상 자료형](https://velog.io/@charlieppark/%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%B6%94%EC%83%81-%EC%9E%90%EB%A3%8C%ED%98%95)
+
 ### Algorithms
 
 #### Abdul Bari Lecture
