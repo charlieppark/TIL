@@ -9,9 +9,17 @@
 
 ***
 
-## C / C++
+## C
 
 [함수 포인터 복습](https://velog.io/@charlieppark/%ED%95%A8%EC%88%98-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EB%B3%B5%EC%8A%B5)
+
+### KNK
+
+[Getting Started KNK!](https://velog.io/@charlieppark/Getting-Started-KNK)
+
+***
+
+## C++
 
 ***
 
