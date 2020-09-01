@@ -85,3 +85,5 @@
 #### Sets
 
 [Introduction to Sets](https://velog.io/@charlieppark/Introduction-to-Sets)
+
+[Types of Sets](https://velog.io/@charlieppark/Types-of-Sets)
