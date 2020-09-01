@@ -79,3 +79,9 @@
 [1.4 The Matrix Equation Ax=b](https://velog.io/@charlieppark/1.4-The-Matrix-Equation-Axb)
 
 [1.5 Solution Sets of Linear Systems](https://velog.io/@charlieppark/1.5-Solution-Sets-of-Linear-Systems)
+
+### Discrete Mathematics
+
+#### Sets
+
+[Introduction to Sets](https://velog.io/@charlieppark/Introduction-to-Sets)
