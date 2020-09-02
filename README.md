@@ -62,6 +62,8 @@
 
 [Pandas 개요](https://velog.io/@charlieppark/Pandas-Overview)
 
+[DataFrame 다루기, Index 객체](https://velog.io/@charlieppark/DataFrame-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Index-%EA%B0%9D%EC%B2%B4)
+
 ***
 
 ## Math
