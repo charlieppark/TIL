@@ -93,3 +93,5 @@
 [Ordered Pairs, Cartesian Product and Plane](https://velog.io/@charlieppark/Ordered-Pairs-Cartesian-Product-and-Plane)
 
 [Union & Intersection](https://velog.io/@charlieppark/Union-Intersection)
+
+[Difference & Complement, Partition](https://velog.io/@charlieppark/Difference-Complement-Partition)
