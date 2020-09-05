@@ -95,3 +95,7 @@
 [Union & Intersection](https://velog.io/@charlieppark/Union-Intersection)
 
 [Difference & Complement, Partition](https://velog.io/@charlieppark/Difference-Complement-Partition)
+
+#### Logic
+
+[Compound Statement, Truth Table](https://velog.io/@charlieppark/Compound-Statement-Truth-Table)
