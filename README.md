@@ -25,6 +25,8 @@
 
 ## Python
 
+[Pygame을 이용해 간단한 게임 작성](https://velog.io/@charlieppark/Pygame%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%8C%EC%9E%84-%EC%9E%91%EC%84%B1)
+
 ***
 
 ## Data Structure and Algorithms
