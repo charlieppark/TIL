@@ -66,6 +66,8 @@
 
 [DataFrame 다루기, Index 객체](https://velog.io/@charlieppark/DataFrame-%EB%8B%A4%EB%A3%A8%EA%B8%B0-Index-%EA%B0%9D%EC%B2%B4)
 
+[데이터 셀렉션 및 필터링](https://velog.io/@charlieppark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%85%80%EB%A0%89%EC%85%98-%EB%B0%8F-%ED%95%84%ED%84%B0%EB%A7%81)
+
 ***
 
 ## Math
