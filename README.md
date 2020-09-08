@@ -48,6 +48,10 @@
 
 ***
 
+## AI
+
+[인공지능이란 무엇인가?](https://velog.io/@charlieppark/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+
 ## Machine Learning
 
 ### <파이썬 머신러닝 완벽 가이드>
