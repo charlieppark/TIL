@@ -106,6 +106,8 @@
 
 [Difference & Complement, Partition](https://velog.io/@charlieppark/Difference-Complement-Partition)
 
+[Conditional Statements](https://velog.io/@charlieppark/Conditional-Statements)
+
 #### Logic
 
 [Compound Statement, Truth Table](https://velog.io/@charlieppark/Compound-Statement-Truth-Table)
