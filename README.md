@@ -113,3 +113,5 @@
 [Compound Statement, Truth Table](https://velog.io/@charlieppark/Compound-Statement-Truth-Table)
 
 [Tautologies, Contradictions, and Logical Equivalence Laws](https://velog.io/@charlieppark/Tautologies-Contradictions-and-Logical-Equivalence-Laws)
+
+[Converse, Inverse, Biconditional](https://velog.io/@charlieppark/Converse-Inverse-Biconditional)
