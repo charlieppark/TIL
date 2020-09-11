@@ -92,6 +92,8 @@
 
 [1.5 Solution Sets of Linear Systems](https://velog.io/@charlieppark/1.5-Solution-Sets-of-Linear-Systems)
 
+[1.6 Linear Independence(1)](https://velog.io/@charlieppark/1.6-Linear-Independence1)
+
 ### Discrete Mathematics
 
 #### Sets
