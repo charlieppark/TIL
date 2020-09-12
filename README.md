@@ -94,6 +94,8 @@
 
 [1.6 Linear Independence(1)](https://velog.io/@charlieppark/1.6-Linear-Independence1)
 
+[1.6 Linear Independence(2)](https://velog.io/@charlieppark/1.6-Linear-Independence2)
+
 ### Discrete Mathematics
 
 #### Sets
