@@ -121,3 +121,5 @@
 [Converse, Inverse, Biconditional](https://velog.io/@charlieppark/Converse-Inverse-Biconditional)
 
 [Digital Logic Circuits, NAND, NOR](https://velog.io/@charlieppark/Digital-Logic-Circuits-NAND-NOR)
+
+[Quantified Statements](https://velog.io/@charlieppark/Quantified-Statements)
