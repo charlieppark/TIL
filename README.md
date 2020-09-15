@@ -74,6 +74,10 @@
 
 [정렬, 결손 데이터 처리, lambda 식으로 가공](https://velog.io/@charlieppark/%EC%A0%95%EB%A0%AC-%EA%B2%B0%EC%86%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-lambda-%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B3%B5)
 
+[Iris Classification](https://velog.io/@charlieppark/Iris-Classification)
+
+[ScikitLearn Framework](https://velog.io/@charlieppark/ScikitLearn-Framework)
+
 ***
 
 ## Math
