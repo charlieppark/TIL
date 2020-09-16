@@ -78,6 +78,8 @@
 
 [ScikitLearn Framework](https://velog.io/@charlieppark/ScikitLearn-Framework)
 
+[Model Selection Module](https://velog.io/@charlieppark/Model-Selection-Module)
+
 ***
 
 ## Math
