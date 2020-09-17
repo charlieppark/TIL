@@ -44,7 +44,14 @@
 #### Abdul Bari Lecture
 
 [Introduction to Algorithms](https://velog.io/@charlieppark/Introduction-to-Algorithms)
-  
+
+***
+
+## PS
+
+### BOJ
+
+[2884번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-2884%EB%B2%88)
 
 ***
 
