@@ -51,9 +51,11 @@
 
 ### BOJ
 
+[1110번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1110%EB%B2%88)
+
 [2884번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-2884%EB%B2%88)
 
-[1110번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1110%EB%B2%88)
+[10872번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-10872%EB%B2%88)
 
 ***
 
