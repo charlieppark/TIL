@@ -6,7 +6,7 @@
 ## Rules (규칙)
 * NEVER write TIL for Contribution Graph (잔디 심기를 위해 TIL을 기록하지 않는다)
 * Write TIL for CONSISTENCY, not for showing (보여주기식이 아닌 꾸준함을 위해 TIL을 쓴다)
-* Finish writing TIL before 9pm (밤 9시 이전에 TIL 작성을 마친다)
+* Learn in the morning if possible, and must finish writing TIL before 9pm (되도록 오전에 공부하고, 밤 9시 이전에 TIL 작성을 마친다)
 * NEVER write before figuring what I learned out completely (완벽히 이해한 것만 TIL로 작성한다)
 
 ***
