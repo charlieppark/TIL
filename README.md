@@ -59,6 +59,8 @@
 
 [1110번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1110%EB%B2%88)
 
+[1152번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1152%EB%B2%88)
+
 [1157번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1157%EB%B2%88)
 
 [4673번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-4673%EB%B2%88)
