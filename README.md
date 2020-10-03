@@ -56,6 +56,8 @@
 
 * 다시 풀 문제는 ★
 
+* TIL에 따로 풀이를 정리하지 않은 문제를 포함하여, 모든 문제의 풀이는 [여기](https://github.com/charlieppark/BOJ-solutions)에 저장해두었다.
+
 [1011번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1011%EB%B2%88)
 
 [1065번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-1065%EB%B2%88)
@@ -83,6 +85,8 @@
 [2941번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-2941%EB%B2%88)
 
 [4673번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-4673%EB%B2%88)
+
+[4948번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-4948%EB%B2%88)
 
 [5622번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-5622%EB%B2%88)
 
