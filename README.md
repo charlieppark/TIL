@@ -98,6 +98,8 @@
 
 [10872번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-10872%EB%B2%88)
 
+[11729번★](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-11729%EB%B2%88)
+
 ***
 
 ## AI
