@@ -100,6 +100,8 @@
 
 [9858번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-9858%EB%B2%88)
 
+[10039번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-10039%EB%B2%88)
+
 [10809번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80)
 
 [10870번](https://velog.io/@charlieppark/%EB%B0%B1%EC%A4%80-10870%EB%B2%88)
