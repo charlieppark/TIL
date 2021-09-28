@@ -24,6 +24,8 @@
 
 ## C++
 
+[Simple Vector Implementation](https://velog.io/@charlieppark/Simple-Vector-Implementation)
+
 ***
 
 ## Python
